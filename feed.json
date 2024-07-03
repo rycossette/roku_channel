@@ -1,0 +1,57 @@
+{
+  "providerName": "My VHS Home Videos",
+  "language": "en",
+  "lastUpdated": "2024-07-03T00:00:00Z",
+  "categories": [
+    {
+      "name": "Basketball Games",
+      "videos": [
+        {
+          "id": "video1",
+          "title": "8 30 Grafton --9 4 West Fargo",
+          "description": "8 30 Grafton --9 4 West Fargo",
+          "thumbnail": "https://img.youtube.com/vi/gSPrdODZCLk/0.jpg",
+          "releaseDate": "1990-12-25",
+          "content": {
+            "dateAdded": "2024-07-03T00:00:00Z",
+            "captions": [],
+            "duration": 6891,
+            "videos": [
+              {
+                "url": "https://www.youtube.com/watch?v=gSPrdODZCLk",
+                "quality": "FHD",
+                "videoType": "MP4"
+              }
+            ]
+          }
+        }
+
+      ]
+    },
+    {
+      "name": "Home Videos",
+      "videos": [
+        {
+          "id": "homevideo1",
+          "title": "Chiaras Dedication",
+          "description": "A home video of a family celebration from 1990.",
+          "thumbnail": "https://www.youtube.com/watch?v=aNpyNufNDco/0.jpg",
+          "releaseDate": "1990-12-25",
+          "content": {
+            "dateAdded": "2024-07-03T00:00:00Z",
+            "captions": [],
+            "duration": 353,
+            "videos": [
+              {
+                "url": "https://www.youtube.com/watch?v=aNpyNufNDco",
+                "quality": "FHD",
+                "videoType": "MP4"
+              }
+            ]
+          }
+        }
+
+      ]
+    }
+  ]
+}
